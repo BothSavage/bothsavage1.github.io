@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://github.com/BOTHSAVAGE
+
+# Sitemaps
+Sitemap: https://github.com/BOTHSAVAGE/sitemap.xml
